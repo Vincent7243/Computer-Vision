@@ -1,0 +1,95 @@
+[33mcommit 04ee1e405af819580e6cfa193db272e027a74ceb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Thu Dec 12 08:16:57 2024 +0700
+
+    add Data to Database
+
+[33mcommit 59a64dff1f7d0a314d0711454810a5f298ca6e07[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Thu Dec 12 01:21:51 2024 +0700
+
+    AddDataToDatabase
+
+[33mcommit e7b2ad8d7b92e61758b4a38a80cef284354b6f43[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Thu Dec 12 00:51:29 2024 +0700
+
+     add bounding box
+
+[33mcommit b7f05fa880df07e26db09ea0effba178c1a430b1[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 19:21:30 2024 +0700
+
+     adjust path
+
+[33mcommit 518be717397f933675594a20ee85603b56e545eb[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 18:29:22 2024 +0700
+
+    add rectangle to face
+
+[33mcommit 18d2e8cbb064d2ea4bc0860e1b3b7cf8ab64cf1e[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 17:59:01 2024 +0700
+
+    done detecting face
+
+[33mcommit 22f9a3b7b291258ddd0e29d9bfa274ad80338e4f[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 16:52:25 2024 +0700
+
+     add compare face and face distance
+
+[33mcommit 43c9ad196d83db300ec12cc87225ea3f9f8d90a9[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 10:39:47 2024 +0700
+
+    convert jpg into png
+
+[33mcommit 1355fd1653dff5cff32084615e1af7e1f1eb9f5c[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 02:42:26 2024 +0700
+
+    encoding start and complete
+
+[33mcommit 12d69903b55bf3f60ee59a5324c7277d28da6bad[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Wed Dec 11 02:15:44 2024 +0700
+
+    forgot upload code
+
+[33mcommit b6547b5d9f39553a9d6f1ae4469687ef8b84afd1[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Tue Dec 10 23:20:09 2024 +0700
+
+    import student images
+
+[33mcommit be15156beee7d722b14793a1eadea3d5f0996e44[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Tue Dec 10 20:27:18 2024 +0700
+
+    import image in modes into a list
+
+[33mcommit 8d9bf7ea0afe8d825d4552e4e9d74d67a923730f[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Tue Dec 10 19:50:31 2024 +0700
+
+    add webcam into background
+
+[33mcommit 248e30828db1fcac4dbf80236ad9df4c26d7ef8f[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Sat Dec 7 00:53:02 2024 +0700
+
+    add webcam
+
+[33mcommit 186c85d0d51c95b0cf30ce4c6d67a76afd0e826e[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Sun Dec 1 21:18:28 2024 +0700
+
+     add images
+
+[33mcommit f620617c55a491c37da9bab33c50f6ae4a68cd35[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Vincent <22520130@gm.uit.edu.vn>
+Date:   Sun Nov 24 15:40:01 2024 +0700
+
+    Initial commit
